@@ -40,6 +40,3 @@ Criar um fluxo funcional e intuitivo para um app mobile de cartório, facilitand
 - Exportação do wireframe em PNG
 
 ---
-
-## 🧱 Estrutura do Repositório
-
